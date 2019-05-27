@@ -7,3 +7,5 @@ This required doing a bunch of math to figure out the geometry of the pizza slic
 When you select a number of slices, the covered up piece(s) are slowly revealed by changing the opacity with a CSS transform.
 
 Makes you hungry!
+
+Created on or around October 6, 2015
